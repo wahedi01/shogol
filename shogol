@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ArianaAfghanistanInternationalTV.af" tvg-country="AF" tvg-language="" tvg-logo="" group-title="",Ariana Afghanistan International TV (720p)
+http://iptv.arianaafgtv.com/ariana/playlist.m3u8
+#EXTINF:-1 tvg-id="ArianaTVNational.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="",Ariana TV National (480p)
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ArianaTVUS.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="",Ariana TV US (720p)
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ArianaTVUS.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="",Ariana TV US (Delayed stream) (720p)
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (360p)
+http://159.69.58.154/bbc/master.m3u8
+#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (540p)
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
+#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Religious",Makkah TV (480p)
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina) (720p)
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina) (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/84nqj99.png" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
+https://iptv--iptv.repl.co/Arabic/Sunnah_TV
+#EXTINF:-1 tvg-id="BaharTV.af" tvg-country="AF" tvg-language="" tvg-logo="" group-title="",Bahar TV (720p)
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:-1 tvg-id="PayameAfghanTV.us" tvg-country="AF" tvg-language="" tvg-logo="https://i.imgur.com/G7Zn0gN.png" group-title="",Payam-e-Afghan TV (480p)
+http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="ToloTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://pbs.twimg.com/profile_images/579001245697908737/bSnXEBFo_400x400.jpeg" group-title="",Tolo TV (720p)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
+#EXTINF:-1 tvg-id="ATNNews.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="News",ATN News (360p) [Not 24/7]
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="IranInternational.uk" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="News",Iran International (1080p)
+https://live.playstop.me/1816184091/index.m3u8
